@@ -1,7 +1,7 @@
 <div align="center">
   <h1>¡Hola! Soy Carlos Carretero 👋 </h1>
 <img src="fondo.jpg">
-    <h2> Para una información más estética y detallada <br> vistita mi portafolio <a href="https://carloscanav.github.io/">CarlosCaNav.github.io</a> </h2>
+    <h2> Para una información más estética y detallada <br> vistita mi portafolio <a href="https://carloscanav.github.io/">CarlosCaNav.github.io</a> </h2><br> 
 </div>
 <!--
 **CarlosCaNav/CarlosCaNav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
