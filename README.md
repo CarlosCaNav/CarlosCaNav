@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy Carlos Carretero 👋 </h1> <br>
+  <h1>¡Hola! Soy Carlos Carretero 👋 </h1>
 <img src="fondo.jpg">
 </div>
 <!--
