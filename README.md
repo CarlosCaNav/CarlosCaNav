@@ -1,4 +1,4 @@
-<div align="center" fontsize="50px">
+<div align="center" font-size="50px">
   ¡Hola! Soy Carlos Carretero 👋 <br> <br>
 <img src="fondo.jpg">
 </div>
