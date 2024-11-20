@@ -1,5 +1,5 @@
-<div font-size="80px">
-  ¡Hola! Soy Carlos Carretero 👋 <br> <br>
+<div align="center">
+  <h1>¡Hola! Soy Carlos Carretero 👋 </h1> <br>
 <img src="fondo.jpg">
 </div>
 <!--
