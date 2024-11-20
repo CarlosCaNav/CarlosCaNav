@@ -1,7 +1,7 @@
 <div align="center">
-  ## ¡Hola! 👋
+  ## ¡Hola! 👋 <br>
 <img src="fondo.jpg">
-</div>div>
+</div>
 <!--
 **CarlosCaNav/CarlosCaNav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
